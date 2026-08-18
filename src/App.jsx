@@ -1,5 +1,5 @@
 import React from "react";
-import Student from "./Student";
+import Student from "./Components/Student";
 
 function App() {
   return (
