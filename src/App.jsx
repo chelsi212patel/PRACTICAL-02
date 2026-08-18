@@ -2,10 +2,10 @@ import Student from "./Components/Student";
 
 function App() {
   const student = {
-    name: "Rahul Sharma",
+    name: "Chelsi Patel",
     age: 20,
     course: "BCA",
-    email: "rahul@example.com",
+    email: "chelsi@example.com",
   };
 
   return (
